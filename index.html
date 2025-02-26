@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Criar ficheiros com multer e NodeJS</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-grid.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1> A Criar upload com multer e NodeJS</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="ficheiro">Seleciona o ficheiro</label>
+                <input type="file" name="ficheiro" id="ficheiro" class="form-control-file">
+            </div>
+            <button class="btn btn-primary btn-large">Enviar o ficheiro</button>
+        </form>
+    </div>
+</body>
+</html>

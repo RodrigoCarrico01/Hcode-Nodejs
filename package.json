@@ -1,0 +1,26 @@
+{
+  "name": "cursonode_api_restful",
+  "version": "1.0.0",
+  "description": "REST API é uma forma de nós trabalharmos para compartilhar informações, aceder DBS, aceder servidores e facilitar o consumo dessas informações por consumo de aplicações modernas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCarrico01/cursonode_api_restful.git"
+  },
+  "keywords": [],
+  "author": "Rodrigo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoCarrico01/cursonode_api_restful/issues"
+  },
+  "homepage": "https://github.com/RodrigoCarrico01/cursonode_api_restful#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "cursonode_blocking_n_unblocking",
+  "version": "1.0.0",
+  "description": "Curso node",
+  "main": "fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCarrico01/cursonode_blocking_n_unblocking.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Rodrigo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoCarrico01/cursonode_blocking_n_unblocking/issues"
+  },
+  "homepage": "https://github.com/RodrigoCarrico01/cursonode_blocking_n_unblocking#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

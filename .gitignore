@@ -1,0 +1,6 @@
+node_modules/
+
+ffmpeg/
+
+/src/resultado/*.mp4
+!src/resultado/.gitkeep

@@ -1,0 +1,34 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "cursonode from udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCarrico01/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Rodrigo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoCarrico01/cursonode/issues"
+  },
+  "homepage": "https://github.com/RodrigoCarrico01/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
